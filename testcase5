@@ -1,0 +1,22 @@
+Test case where there are too many classes for a certain professor to teach, which should fail. NOTE: this case has been failing recently.
+Classes
+ENGL101 25 Smith 1
+ENGL102 25 Smith 2
+ENGL103 25 Smith 3
+ENGL104 25 Smith 4
+ENGL105 25 Smith 5
+ENGL106 25 Smith 6
+ENGL107 25 Smith 7
+ENGL108 25 Smith 8
+ENGL109 25 Smith 9
+ENGL110 25 Smith 10
+ENGL111 25 Smith 11
+ENGL112 25 Smith 12
+ENGL113 25 Smith 13
+ENGL114 25 Smith 14
+ENGL115 25 Smith 15
+ENGL116 25 Smith 16
+
+Rooms
+SQH404 30
+TBH404 30
