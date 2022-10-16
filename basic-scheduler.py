@@ -3,6 +3,10 @@
 
 from z3 import *
 
+'THE NAME OF THE SET OF CLASSES GOES HERE'
+infilename = "testcase1.txt"
+
+
 '''
 Number of time slots in the day for MWF: 
 0 => 08:00-08:50
@@ -195,8 +199,6 @@ def print_days(t):
         raise(Exception("Invalid days: %d" % t))
 
 # Run a small instance of the scheduling problem
-
-infilename = "technica-2022/testcase2.txt"
 
 infile = open(infilename,'r')
 
